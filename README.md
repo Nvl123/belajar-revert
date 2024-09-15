@@ -6,3 +6,5 @@ lajar revert di github <br>
 2. ap saja yang perlu aku persiapkan juga
 3. semoga saja ini sukses yaa
 4. aku punya cita-cita untuk berkuliah di luar negeri
+
+> semoga ini bisa suksesss
