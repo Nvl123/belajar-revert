@@ -8,5 +8,4 @@ lajar revert di github <br>
 4. aku punya cita-cita untuk berkuliah di luar negeri
 
 > semoga ini bisa suksesss
-kali ini kita akan melakukan sebuah perubahan <br>
-yang di kenal dengan code reviews
+kali ini kita akan melakukan sebuah perubahan, yang di kenal dengan code reviews
